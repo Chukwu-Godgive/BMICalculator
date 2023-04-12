@@ -2,7 +2,7 @@
 
 BMICalculator is a software that helps to calculate the body mass index of a person.
 
-[Visit Site]()
+[Visit Site](https://bmicheckup.netlify.app)
 
 ### Tools Pack
 

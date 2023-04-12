@@ -9,7 +9,8 @@ function runBmi() {
   let height = document.getElementById("heightInput").value;
 
   //   Calculating of the inputted data gotten from the user
-  let multiplyHeight = height * height;
+  let divideHeight = height / 100
+  let multiplyHeight = divideHeight * divideHeight;
   let calculateBmi = (weight / multiplyHeight).toFixed(1);
 
   //   Conditional statement for BMI input data
